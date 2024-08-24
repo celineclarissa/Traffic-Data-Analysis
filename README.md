@@ -15,6 +15,9 @@ As a data analyst at a fuel company, skills of understanding the market and extr
 ## Technologies
 * Python
 * Pandas
+* Scipy
+* Seaborn
+* Matplotlib
 * Tableau
 
 ## Featured Links
