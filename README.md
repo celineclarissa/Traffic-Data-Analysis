@@ -5,7 +5,7 @@ In this repository, I analyzed trends and factors relating to fuel consumption b
 I am a data analyst at a fuel company in a futuristic urban setting where fuel is used to provide energy for transportation needs. As a data analyst at a fuel company, it is crucial to understand the market and gain insights from it to build strategies for the company. The data used is traffic data set in six diverse cities gained from the Department of Transportation's public data and is saved in a csv file format.
 
 ## Problem Statement 🔍
-As a data analyst at a fuel company, skills of understanding the market and extracting business insights from data are needed. By examining traffic data, it is possible to do that. Data analysts have to get to know about the correlation between variables in analyzed data, and use data to find out about consumer behavior can then be analyzed. By gaining information from data, it is targeted for the company to increase energy consumption, and therefore, fuel consumption. The insights are aimed to be displayed in the form of an interactive dashboard after 5 working days.
+As a data analyst at a fuel company, it’s important to understand the market and extract meaningful business insights from data. By analyzing traffic patterns, we can uncover correlations between key variables and better understand consumer behavior. These insights help the company identify opportunities to increase energy usage, ultimately driving fuel consumption. The findings are intended to be presented through an interactive dashboard within five working days.
 
 ## Methods Used 📊
 * Descriptive Statistics
